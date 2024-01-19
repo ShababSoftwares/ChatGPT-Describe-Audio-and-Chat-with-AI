@@ -13,10 +13,13 @@ Just Download and run
 composer create-project shababsoftwares/chatgpt-describe-audio-and-chat-with-ai
 ```
 
-setup database in .env file
+## Setting up .env file
+
+###setup database in .env file
+
 import database_chatgpt.sql file into database, File Located under 'database/database_chatgpt.sql'
 
-## You will need to add ChatGPT4 API Key in .env file
+### You will need to add ChatGPT4 API Key in .env file
 
 Obtain key from the link <a href="https://platform.openai.com/api-keys" target="_blank">ChatGPT API Key</a> and add into .env file like below.
 
