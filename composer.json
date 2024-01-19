@@ -1,10 +1,16 @@
 {
-    "name": "laravel/laravel",
+    "name": "shababsoftwares/chatgpt-describe-audio-and-chat",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "This is Laravel Project, You can submit any Audio file, AI will transcript it, and you can further ask Question about this Audio script.",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "chatgpt",
+        "transcript",
+        "describe",
+        "translate",
+        "chat",
+        "ai"
     ],
     "license": "MIT",
     "require": {
@@ -46,7 +52,7 @@
             "Tests\\": "tests/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "scripts": {
         "post-autoload-dump": [
