@@ -15,7 +15,7 @@ composer create-project shababsoftwares/chatgpt-describe-audio-and-chat-with-ai
 
 ## Setting up .env file
 
-###setup database in .env file
+### Setup database in .env file
 
 import database_chatgpt.sql file into database, File Located under 'database/database_chatgpt.sql'
 

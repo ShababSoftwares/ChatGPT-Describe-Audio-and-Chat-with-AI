@@ -2,6 +2,10 @@
     "name": "shababsoftwares/chatgpt-describe-audio-and-chat-with-ai",
     "type": "project",
     "description": "This is Laravel Project, You can submit any Audio file, AI will transcript it, and you can further ask Question about this Audio script.",
+    "authors": [{
+        "name": "Muhammad Arif Shabab",
+        "email": "shabab.softwares@gmail.com"
+    }],
     "keywords": [
         "framework",
         "laravel",
