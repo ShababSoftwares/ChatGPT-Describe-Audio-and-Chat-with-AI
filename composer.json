@@ -1,5 +1,5 @@
 {
-    "name": "shababsoftwares/chatgpt-describe-audio-and-chat",
+    "name": "shababsoftwares/chatgpt-describe-audio-and-chat-with-ai",
     "type": "project",
     "description": "This is Laravel Project, You can submit any Audio file, AI will transcript it, and you can further ask Question about this Audio script.",
     "keywords": [

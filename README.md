@@ -47,6 +47,10 @@ Pass: - Abc12345
 Upload any audio file from the menu, after uploading you will be redirected to Extracted content from audio file.
 Here you can ask anything about extracted content from the audio, Like any thing.
 
+## Access to Uploaded file section
+
+You can see previous uploaded audio files, and chat history, and come back anytime to start conversation with AI.
+
 ## License
 
 The MIT License (MIT). Please see [LICENSE](LICENSE.md) for more information.
