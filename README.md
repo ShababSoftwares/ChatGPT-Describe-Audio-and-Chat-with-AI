@@ -42,6 +42,10 @@ Login Details:
 Email - chatgpt@test.com
 Pass: - Abc12345
 
+## Upload Audio File
+
+Upload any audio file from the menu, after uploading you will be redirected to Extracted content from audio file.
+Here you can ask anything about extracted content from the audio, Like any thing.
 
 ## License
 
